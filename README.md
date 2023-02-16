@@ -6,3 +6,10 @@ I'm a front-end developer, writer, and teller of honest stories based in North C
 
 > "Make it work, then make it better." - A very cool person
 
+## Skills
+
+### Languages & frameworks
+- HTML5 🧱
+- CSS3 🎨
+- JavaScript ⚙️
+- SASS ⭐
