@@ -2,21 +2,12 @@
 
 ### Hi, I'm Kevin Horton. :v:
 
-I'm a front-end developer, writer, and teller of honest stories based in North Carolina. I specialize in HTML Email Development and Web Development with a keen eye for design. Constantly learning, I enjoy building and designing things that provide value to the world around us.
+I'm a front-end developer, writer, and teller of honest stories based in North Carolina. I specialize in HTML Email Development and Web Development with a keen eye for design. Constantly learning, I enjoy building and designing things that provide value to the world around us using HTML, CSS, SASS, and JavaScript.
 
 > "Make it work, then make it better." - A very cool person
 
-## Skills
-
-### Languages & Frameworks
-- HTML5 🧱
-- CSS3 🎨
-- JavaScript ⚙️
-- SASS ⭐
-- MJML 📨
-
-### Design Tools
-- Figma
-- Sketch
-- Adobe Photoshop
-- Canva
+## Links
+<p>
+  <a href="https://kevinhorton.dev" alt="Link to my portfolio website">Portfolio Website</a>
+  <a href="https://www.linkedin.com/in/kevnhortn/" alt="Link to my LinkedIn profile">LinkedIn</a>
+</p>
