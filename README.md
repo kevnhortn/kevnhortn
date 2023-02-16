@@ -1,4 +1,4 @@
-![readme-banner](https://user-images.githubusercontent.com/117312773/219256286-1b816f85-dd3b-46ac-b95a-ed9abe79628c.gif)
+![readme-banner](https://user-images.githubusercontent.com/117312773/219256552-b4a4b3c3-e61c-4d39-a506-a589669776dc.gif)
 
 ### Hi, I'm Kevin Horton. :v:
 
