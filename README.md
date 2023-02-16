@@ -5,5 +5,5 @@ I'm a front-end developer, writer, and teller of honest stories based in North C
 > "Make it work, then make it better." - A very cool person
 
 <p>
-  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/kevinhortn?color=%231DA1F2&style=flat-square">
+  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/kevinhorton?label=Follow&style=social">
 </p>
