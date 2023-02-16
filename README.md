@@ -1,6 +1,4 @@
-<picture>
-  <img src="https://github.com/kevnhortn/image-hosting-repo/readme-banner.gif" alt="Readme Banner" />
-</picture>
+![readme-banner](https://user-images.githubusercontent.com/117312773/219256286-1b816f85-dd3b-46ac-b95a-ed9abe79628c.gif)
 
 ### Hi, I'm Kevin Horton. :v:
 
