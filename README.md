@@ -8,6 +8,7 @@ I'm a front-end developer, writer, and teller of honest stories based in North C
 
 ## Links
 <p>
-  <a href="https://kevinhorton.dev" alt="Link to my portfolio website">Portfolio Website</a>
-  <a href="https://www.linkedin.com/in/kevnhortn/" alt="Link to my LinkedIn profile">LinkedIn</a>
+  <a href="https://kevinhorton.dev" alt="Link to my portfolio website">Portfolio Website</a> |
+  <a href="https://www.linkedin.com/in/kevnhortn/" alt="Link to my LinkedIn profile">LinkedIn</a> |
+  <a href="https://twitter.com/kevinhortn/" alt="Link to my Twitter profile">Twitter</a>
 </p>
