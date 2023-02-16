@@ -8,8 +8,15 @@ I'm a front-end developer, writer, and teller of honest stories based in North C
 
 ## Skills
 
-### Languages & frameworks
+### Languages & Frameworks
 - HTML5 🧱
 - CSS3 🎨
 - JavaScript ⚙️
 - SASS ⭐
+- MJML 📨
+
+### Design Tools
+- Figma
+- Sketch
+- Adobe Photoshop
+- Canva
