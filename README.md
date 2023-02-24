@@ -2,7 +2,7 @@
 
 ### Hi, I'm Kevin Horton. :v:
 
-I'm a front-end developer, writer, and teller of honest stories based in North Carolina. I specialize in HTML Email Development and Web Development with a keen eye for design. Constantly learning, I enjoy building and designing things that provide value to the world around us using HTML, CSS, SASS, and JavaScript.
+I'm a front-end developer, writer, and teller of honest stories based in North Carolina. I specialize in HTML Email Development and Web Development with a keen eye for design. Constantly learning, I enjoy building and designing experiences that provide value to the world around us using HTML, CSS, SASS, and JavaScript.
 
 > "Make it work, then make it better." - A very cool person
 
